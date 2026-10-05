@@ -1,0 +1,16 @@
+title: Communication Primer
+email: ""
+description: >-
+  A public-facing guide to major schools of communication theory and their value
+  for understanding communication challenges in the age of AI.
+baseurl: "/comm-primer"
+url: "https://lillydonohoe.github.io"
+github_username: lillydonohoe
+repository: comm-primer
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
