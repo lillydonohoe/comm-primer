@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I built this site
+title: How I built this website
 permalink: /how-i-built-this-site/
 ---
 
