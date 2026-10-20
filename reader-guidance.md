@@ -4,8 +4,23 @@ title: What the reader should do
 permalink: /reader-guidance/
 ---
 
-<article aria-labelledby="guidance-title">
-  <h2 id="guidance-title">What the reader should do</h2>
-  <p class="lede">Starter section: turn theory into practical communication habits for personal and professional contexts.</p>
-  <p>Build a checklist of actions readers can take when messages fail: identify the model in use, diagnose where meaning shifted, and adapt strategy when AI tools intervene.</p>
-</article>
+## Think Before You Send 
+
+AI is a very useful tool to assist in communication; however, the final message should be a reflection of your own personal intentions. When the sender trusts AI to help edit or write a message, that sender is not responsible for taking a moment to review it. 
+
+**Before You Send Checklist**
+1. Does this message sound like me? 
+  Look for words that you would normally use, and change anything that does not feel natural to you.
+2. Does it communicate what I intended? 
+  Compare your original message to the version AI gave you. Make sure AI did not change any major points or emotions. 
+3. How may the other person interpret this message? 
+  You need to be aware of your audience. A message to a close friend should be calm and friendly. A message to a boss should be professional and formal. Make sure your wording fits the situation you are communicating in. 
+4. Is everything accurate?
+  Check for spelling in names, facts, citations, and other small details that matter. 
+
+**Use AI Without Losing Your Voice**
+You do not have to stop using AI in general, just be aware or how it can affect the way you communicate. Be aware that you should be using it intentionally. 
+
+AI should correct grammar, organize your own thoughts, or suggest where you could add clearer wording. Having AI automatically rewrite your message for you is where your voice can get lost. 
+
+Before you send, make sure you mean it. 
