@@ -14,7 +14,7 @@ AI is a very useful tool to assist in communication; however, the final message 
 2. Does it communicate what I intended? 
   Compare your original message to the version AI gave you. Make sure AI did not change any major points or emotions. 
 3. How may the other person interpret this message? 
-  You need to be aware of your audience. In personal communciaiton, you should focus on keeping your relationships and emotiosn clear in the message. In professional communciaiton, your message should more accurately follow workplace expectations. Make sure your wording fits the situation you are communicating in. 
+  You need to be aware of your audience. In personal communication, you should focus on keeping your relationships and emotions clear in the message. In professional communication, your message should more accurately follow workplace expectations. Make sure your wording fits the situation you are communicating in. 
 4. Is everything accurate?
   Check for spelling in names, facts, citations, and other small details that matter. 
 
