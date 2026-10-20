@@ -5,16 +5,7 @@ title: Home
 
 <section aria-labelledby="home-intro-title">
   <h2 id="home-intro-title">Welcome to the Communication Primer</h2>
-  <p class="lede">This site introduces non-technical readers to major communication theory schools and shows how each lens can clarify modern communication problems shaped by artificial intelligence.</p>
-  <p>This is starter text you can replace with your own analysis, examples, and references. The project is designed to make everyday communication breakdowns visible through practical theory tools.</p>
+  <p class="lede"> Artificial Intelligence is changing the way we communciate with the people around us. From writing birthday messages and responding to friends to drafting professional emails and cover letters, AI can help us express ourselves more clearly and confidently.</p>
+  <p>However, there is a catch. A message can sound better without communicating what you actually mean.</p>When we ask AI to rewrite our words, it can change more than just grammar and spelling. AI influences our tone, emotions, and how the other person may interpret out message.</p>Whether it is a friend or a boss we ar texting, the goal us not just to create a clear message. We want to make sure we are sending a reflection of our own intentions and tone.</p>This website is creatd to explore how AI can change the way we communciate, why misunderstanding may happen, and how we an use AI without losing our own voice.</p>The goal: Let AI help you communciate, do not let AI communciate for you. </p>
 </section>
 
-<section aria-labelledby="home-how-to-use">
-  <h2 id="home-how-to-use">How to Use This Site</h2>
-  <p>Each subpage frames one shared communication problem through a different theoretical lens. Together, they move from transmission and meaning to power, interpretation, and practical action.</p>
-  <ul>
-    <li>Read one lens at a time to compare what each framework reveals.</li>
-    <li>Track what changes when AI systems mediate messages.</li>
-    <li>Use the final guidance page to translate insights into action.</li>
-  </ul>
-</section>
