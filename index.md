@@ -15,4 +15,4 @@ Whether it is a friend or a boss we ar texting, the goal us not just to create a
 
 This website is creatd to explore how AI can change the way we communciate, why misunderstanding may happen, and how we an use AI without losing our own voice.
 
- ***The goal: Let AI help you communciate, do not let AI communciate for you.**
+ **The goal: Let AI help you communciate, do not let AI communciate for you.**
