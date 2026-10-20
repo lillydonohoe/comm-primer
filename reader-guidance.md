@@ -6,7 +6,7 @@ permalink: /reader-guidance/
 
 ## Think Before You Send 
 
-AI is a very useful tool to assist in communication; however, the final message should be a reflection of your own personal intentions. When the sender trusts AI to help edit or write a message, that sender is not responsible for taking a moment to review it. 
+AI is a very useful tool to assist in communication; however, the final message should be a reflection of your own personal intentions. When the sender trusts AI to help edit or write a message, that sender is still responsible for taking a moment to review it. 
 
 **Before You Send Checklist**
 1. Does this message sound like me? 
