@@ -10,4 +10,5 @@ Have you ever been sent a message that seemed rude, even though you did not thin
   
 **What should you take away from this?** 
  
-When AI changes your message, even if it is just your wording, it could change the social meaning of your message. Before sending an AI-edited message, it is important to reread it and be certain that it is the tone you want to send. Ask yourself if these new words communicate how you feel and if your intentions are still shared in the message. The best wording is what fits the pers
+When AI changes your message, even if it is just your wording, it could change the social meaning of your message. Before sending an AI-edited message, it is important to reread it and be certain that it is the tone you want to send. Ask yourself if these new words communicate how you feel and if your intentions are still shared in the message. The best wording is what fits the person and situation for each message.
+
