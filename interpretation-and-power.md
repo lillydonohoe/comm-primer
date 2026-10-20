@@ -17,5 +17,5 @@ A short AI response can seem polite to the sender, but cold to a close friend wh
 - Read the message from the recipient's perspective.
 - Ask whether the tone matches what you originally meant to communicate.
 
-**Remember:**You always control what you send. You can take advice and suggestions from AI, but in the end, good communication is when you consider both.
+**Remember:** You always control what you send. You can take advice and suggestions from AI, but in the end, good communication is when you consider both.
 
